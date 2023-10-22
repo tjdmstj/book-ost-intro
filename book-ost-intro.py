@@ -4,7 +4,7 @@ from st_pages import Page, add_page_title, show_pages
 
 show_pages(
     [   
-        Page('pages/home.py','INTRO','🏠'),
+        Page('book-ost-intro.py','INTRO','🏠'),
         Page("pages/book-list.py", "BOOK-LIST", "📗"),
     ]
 )
